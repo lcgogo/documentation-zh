@@ -133,7 +133,7 @@ done
 
 <h3>使用范围</h3>
 
-脚本可以再Linux/MacOS上使用，不支持Windows系统。
+脚本可以在Linux/MacOS上使用，不支持Windows系统。
 只支持FullNode与SolidityNode的部署。
 
 <h3>下载运行脚本</h3>
